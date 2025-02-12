@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');  
+
+:root{
+
+    --white:#fff;
+    --gray-100:#e1e1e6;
+    --gray-200:#d2d2d6;
+    --gray-300:#c4c4cc;
+    --gray-400:#8d8d99;
+    --gray-600:#323238;
+    --gray-700:#29292e;
+    --gray-800:#202024;
+    --gray-900:#121214;
+    --green-300:#00837e;
+    --green-500:#00875f;
+    --green-700:#00af00;
+    --yellow-400:#ffe15c;
+    --fundo:#004531;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: var(--gray-100);
+    background-image: linear-gradient( to bottom, #121214 10%, var(--fundo));
+}

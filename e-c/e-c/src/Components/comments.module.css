@@ -1,0 +1,55 @@
+.comments{
+    margin-top: 2rem;
+    gap: 1rem;
+    display: flex;
+}
+
+.comments img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 8px;
+}
+
+.commentsContent{
+    background: var(--gray-700);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+    width: 700px;
+}
+
+.commentsContent p{
+    margin-top: 1rem;
+}
+
+.commentsInput{
+    margin-top: 10px;
+    background-color: var(--gray-400);
+    color: black;
+    border: none;
+}
+
+.commentsRadio{
+    margin-top: 40px;
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+    font-size: 27px;
+}
+
+.commentsRadio form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 18px;
+}
+
+.commentsRadio img{
+    width: 147px;
+}
+
+button{
+    margin-top: 35px;
+    width: 180px;
+}
