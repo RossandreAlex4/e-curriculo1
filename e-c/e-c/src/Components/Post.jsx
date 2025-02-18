@@ -17,7 +17,7 @@ export default function Post() {
         <p>Sobre você</p>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum voluptatum rerum aspernatur laborum eos delectus iure doloremque impedit nam omnis quod deleniti vero voluptatibus qui, ipsa, repudiandae reiciendis, beatae quas!</p>
 
-        <p><a href='https://www.youtube.com/?app=desktop&hl=pt'>Link repositórios</a></p>
+        <p><a href=''>Link repositórios</a></p>
         <p><a>Último projeto</a></p>
       </div>
 

@@ -20,7 +20,7 @@ export default function Comments() {
         >
 
     <div className={styles.comments}>
-        <img src="src\assets\img\nivel.png" alt="" />
+        <img src="\img\nivel.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -34,7 +34,7 @@ export default function Comments() {
     </div>
     
     <div className={styles.comments}>
-        <img src="src\assets\img\diploma.png" alt="" />
+        <img src="\img\diploma.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -48,7 +48,7 @@ export default function Comments() {
     </div>
 
     <div className={styles.comments}>
-        <img src="src\assets\img\trabalhador.png" alt="" />
+        <img src="\img\trabalhador.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -62,7 +62,7 @@ export default function Comments() {
     </div>
 
     <div className={styles.comments}>
-        <img src="src\assets\img\aprendizagem-de-idiomas.png" alt="" />
+        <img src="\img\aprendizagem-de-idiomas.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -76,7 +76,7 @@ export default function Comments() {
     </div>
 
     <div className={styles.comments}>
-        <img src="src\assets\img\programacao.png" alt="" />
+        <img src="\img\programacao.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -90,7 +90,7 @@ export default function Comments() {
     </div>
 
     <div className={styles.comments}>
-        <img src="src\assets\img\habilidades.png" alt="" />
+        <img src="\img\habilidades.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -104,7 +104,7 @@ export default function Comments() {
     </div>
 
     <div className={styles.comments}>
-        <img src="src\assets\img\info.png" alt="" />
+        <img src="\img\info.png" alt="" />
         <div>
             <div className={styles.commentsContent}>
                 <header>
@@ -120,7 +120,7 @@ export default function Comments() {
     
 
     <div className={styles.commentsRadio}>
-        <img src="src\assets\img\pessoas.png" alt="" />
+        <img src="\img\pessoas.png" alt="" />
         <strong>Sua nota de 0 a 10 nas seguintes habilidades interpessoais</strong>
         <p>1. Trabalho em equipe</p>
         <form>
